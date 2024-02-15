@@ -9,6 +9,8 @@
 - Track and manage all your shipments from one centralized dashboard.
 - Updates on shipment status, ensuring you stay informed at every step of the process.
 
+  ![dashboard](./assets/s1.png)
+
 ### Integrated Accounting:
 
 - Seamlessly integrate your accounting tasks with your shipment management.
