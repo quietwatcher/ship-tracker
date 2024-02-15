@@ -21,10 +21,31 @@
 
 ### Comprehensive Reporting:
 
-- Export detailed reports for insights into your shipment history, costs, and performance.
+- Export detailed reports in Excel or PDF for insights into your shipment history, costs, and performance.
 - Customizable reporting tools to tailor information based on your specific business needs.
 
 ### User-Friendly Interface:
 
 - Intuitive design for easy navigation and a smooth user experience.
 - Quick access to key features, ensuring efficiency in your day-to-day operations.
+
+### Other Features
+- Shipment labels
+- Shipment Receipts
+- Inbuilt Shipment Weight Calculation according to size
+- Outstanding Reports
+  
+
+## Benefits:
+
+**Time and Cost Efficiency:**
+- Save time by consolidating shipment and accounting tasks in one platform.
+- Reduce manual errors and associated costs with automated processes.
+
+**Improved Accuracy:**
+- Accurately track and trace shipments, minimizing errors and enhancing customer satisfaction.
+- Generate precise financial reports for better decision-making.
+
+**Enhanced Customer Experience:**
+- Provide clients with real-time updates, invoices, and detailed reports, fostering transparency and trust.
+- Customizable features to align with your unique business requirements.
