@@ -1,29 +1,30 @@
-# ShipTracker - Shipment Management , Accounting Solution
-ShipTracker is an all-in-one shipment management solution designed to streamline and simplify every aspect of your courier operations. If you are a small business, ShipTracker empowers you to efficiently manage your shipments, handle accounting tasks, generate invoices, and export comprehensive reports—all within a single, user-friendly platform.
+# ShipTracker - Shipment Management Solution
 
-##Key Features:
+**ShipTracker** is an all-in-one shipment management solution designed to streamline and simplify every aspect of your courier operations. If you are a small business, ShipTracker empowers you to efficiently manage your shipments, handle accounting tasks, generate invoices, and export comprehensive reports—all within a single, user-friendly platform.
 
-###Effortless Shipment Management:
+## Key Features:
 
-*Track and manage all your shipments from one centralized dashboard.
-*Updates on shipment status, ensuring you stay informed at every step of the process.
+### Effortless Shipment Management:
 
-###Integrated Accounting:
+- Track and manage all your shipments from one centralized dashboard.
+- Updates on shipment status, ensuring you stay informed at every step of the process.
 
-*Seamlessly integrate your accounting tasks with your shipment management.
-*Generate accurate and detailed invoices, improving financial transparency.
+### Integrated Accounting:
 
-###Billing Simplified:
+- Seamlessly integrate your accounting tasks with your shipment management.
+- Generate accurate and detailed invoices, improving financial transparency.
 
-*Automate billing processes to save time and reduce errors.
-*Flexible billing options to accommodate various payment methods and billing cycles.
+### Billing Simplified:
 
-###Comprehensive Reporting:
+- Automate billing processes to save time and reduce errors.
+- Flexible billing options to accommodate various payment methods and billing cycles.
 
-*Export detailed reports for insights into your shipment history, costs, and performance.
-*Customizable reporting tools to tailor information based on your specific business needs.
+### Comprehensive Reporting:
 
-###User-Friendly Interface:
+- Export detailed reports for insights into your shipment history, costs, and performance.
+- Customizable reporting tools to tailor information based on your specific business needs.
 
-*Intuitive design for easy navigation and a smooth user experience.
-*Quick access to key features, ensuring efficiency in your day-to-day operations.
+### User-Friendly Interface:
+
+- Intuitive design for easy navigation and a smooth user experience.
+- Quick access to key features, ensuring efficiency in your day-to-day operations.
